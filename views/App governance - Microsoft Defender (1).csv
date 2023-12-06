@@ -1,0 +1,435 @@
+﻿App name,App status,Graph API access,Permission type,Consent type,Publisher,Last modified,Added on,Permission usage,Data usage,Privilege level
+ reMarkable Integrations OneDrive,Disabled by user,Yes,Delegated,User (1),Remarkable AS,2023-10-31T14:05:43.000Z,2023-10-01T14:44:18.000Z,In use,0,High
+acr-sod-sp,Enabled,Yes,Mixed,Admin,N/A,,2020-12-01T14:57:46.000Z,N/A,0,High
+Acrobat web connector,Enabled,Yes,Delegated,User (2),Adobe Inc.,,2022-06-07T08:20:43.000Z,Some unused,0,High
+Actions Platform,Enabled,No,Delegated,Admin,N/A,,2020-11-17T15:32:18.000Z,N/A,0,None
+AddEvent.com,Enabled,Yes,Delegated,User (54),N/A,2023-10-03T12:37:50.000Z,2020-07-10T18:35:21.000Z,Some unused,0,Medium
+Adobe Acrobat,Enabled,Yes,Delegated,User (436),Adobe Inc.,2023-10-30T17:13:01.000Z,2021-02-19T11:43:32.000Z,Some unused,571.93 MB,High
+Adobe Acrobat Reader,Enabled,Yes,Delegated,Admin,Adobe Inc.,2023-10-31T15:19:43.000Z,2021-03-05T17:12:21.000Z,In use,0,High
+Adobe Acrobat Reader for PDF,Enabled,Yes,Delegated,Admin,N/A,2023-10-31T15:27:07.000Z,2020-11-03T14:49:34.000Z,In use,0,High
+Adobe Sign for Office365,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:06:13.000Z,2020-05-15T10:54:49.000Z,Some unused,0,High
+Affinity,Disabled by user,Yes,Delegated,User (1),"Project Affinity, Inc.",2023-10-31T14:06:37.000Z,2022-04-25T12:05:17.000Z,Some unused,0,High
+Afik Developement,Enabled,Yes,Mixed,Admin,N/A,2023-08-27T06:47:45.000Z,2022-02-16T11:38:19.000Z,N/A,0,High
+ALADDIN - Subscription Creation - DEV,Enabled,Yes,Mixed,Admin,N/A,2023-10-31T16:12:41.000Z,2022-10-03T08:48:02.000Z,N/A,0,High
+ALADDIN - Subscription Creation - PRD,Enabled,Yes,Mixed,Admin,N/A,2023-10-17T07:51:40.000Z,2022-10-03T08:49:39.000Z,N/A,0,Medium
+AlienVault_OTX_V2,Enabled,Yes,Mixed,Admin,N/A,2023-10-22T09:57:19.000Z,2023-10-22T09:09:47.000Z,N/A,0,Medium
+Amazon Alexa Connect,Disabled by user,Yes,Delegated,User (6),N/A,2023-01-14T20:01:21.000Z,2020-09-02T22:17:31.000Z,Some unused,0,High
+amazon.jobs,Disabled by user,Yes,Delegated,User (5),N/A,2023-04-22T19:19:03.000Z,2020-12-23T10:14:31.000Z,Some unused,0,High
+anton-openshift-sp,Enabled,No,Mixed,Admin,N/A,,2020-03-02T10:23:26.000Z,N/A,0,None
+app-b2c-test,Enabled,No,Delegated,User (1),N/A,,2021-02-08T12:52:46.000Z,N/A,0,None
+AppSheet,Disabled by user,Yes,Delegated,User (70),N/A,2023-10-31T14:07:51.000Z,2020-07-12T13:49:17.000Z,Some unused,0,High
+Aqua Mail,Enabled,No,Delegated,User (2),N/A,,2022-05-29T12:02:07.000Z,N/A,0,None
+Arc,Enabled,Yes,Delegated,User (1),The Browser Company of New York Inc,2023-10-23T10:28:31.000Z,2023-10-23T10:28:31.000Z,Some unused,0,High
+ArcGIS Online Data Loader,Disabled by user,Yes,Delegated,User (2),N/A,2023-03-22T19:23:03.000Z,2023-03-01T10:23:14.000Z,Some unused,0,Medium
+Atlassian Links,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:08:10.000Z,2022-12-21T18:25:15.000Z,Some unused,0,High
+Attendance-App-Hatal,Enabled,Yes,Delegated,User (32),N/A,,2021-04-12T10:15:09.000Z,Some unused,0,Medium
+AttendanceHatal-dev,Enabled,Yes,Delegated,User (607),N/A,2023-06-22T12:18:22.000Z,2022-01-20T15:44:47.000Z,Some unused,0,Medium
+AttendanceHatal-test,Enabled,Yes,Delegated,User (173),N/A,2023-01-29T06:36:28.000Z,2021-11-01T12:57:21.000Z,Some unused,0,Medium
+AU_09 - Gray - AZ Infra Creator DevOps - PROD,Enabled,Yes,Mixed,Admin,N/A,,2022-04-05T08:53:31.000Z,N/A,0,Medium
+AU_09_IAFScheduler,Enabled,Yes,Mixed,Admin,N/A,2023-07-02T11:30:03.000Z,2021-12-02T09:12:37.000Z,N/A,0,High
+AU_09_IAFScheduler_Test,Enabled,Yes,Mixed,Admin,N/A,2023-06-13T13:19:49.000Z,2023-06-05T12:00:37.000Z,Some unused,0,Medium
+AU_09_TovalApp,Enabled,Yes,Mixed,Admin,N/A,2023-03-27T13:06:37.000Z,2022-07-05T08:27:35.000Z,Some unused,0,High
+AU_09_TovalApp_Dev,Enabled,Yes,Mixed,Admin,N/A,2023-03-27T13:07:08.000Z,2023-01-01T13:02:44.000Z,Some unused,0,High
+AU_09_TovalApp_Test,Enabled,Yes,Mixed,Admin,N/A,2023-04-02T07:25:56.000Z,2022-12-11T09:58:36.000Z,Some unused,0,High
+Auto Security Alerts Reports,Enabled,Yes,Mixed,Admin,N/A,2023-05-28T11:48:36.000Z,2021-05-19T07:27:01.000Z,N/A,0,Medium
+AutoCAD,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:08:34.000Z,2023-07-18T16:40:17.000Z,Some unused,0,High
+Automate.io,Disabled by user,Yes,Delegated,User (2),N/A,,2021-07-13T19:40:53.000Z,Some unused,0,High
+avia-hafifa-spn,Enabled,Yes,Mixed,Admin,N/A,2023-09-05T09:19:49.000Z,2023-09-05T08:32:55.000Z,N/A,0,Medium
+aws-automation-spn,Enabled,Yes,Mixed,Admin,N/A,,2022-10-30T12:21:52.000Z,Some unused,0,High
+aws-mailbox,Enabled,Yes,Mixed,Admin,N/A,2023-06-05T08:11:32.000Z,2022-11-06T08:31:57.000Z,Some unused,0,High
+awsAccountAutomationPhone,Enabled,Yes,Mixed,Admin,N/A,2023-12-02T12:35:53.000Z,2023-06-07T13:13:15.000Z,N/A,0,High
+ayalon,Disabled by user,Yes,Delegated,User (4),N/A,2023-10-31T14:09:40.000Z,2021-01-05T09:09:08.000Z,Some unused,0,High
+Azure Logic Apps - Azure AD,Enabled,Yes,Delegated,Admin,N/A,,2020-06-08T13:17:10.000Z,N/A,0,High
+B2C-Test23,Enabled,No,Delegated,User (4),N/A,,2021-02-10T13:09:30.000Z,N/A,0,None
+Bites,Enabled,Yes,Mixed,Admin,N/A,2023-11-06T12:42:35.000Z,2020-10-22T18:12:52.000Z,Some unused,0,High
+Bitnami Launchpad for Microsoft Azure,Enabled,No,Delegated,User (3),N/A,,2020-04-02T07:43:32.000Z,N/A,0,None
+Bluecoins,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:10:15.000Z,2022-09-29T22:30:05.000Z,Some unused,0,High
+Brother iPrintAndScan,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:11:10.000Z,2022-04-06T16:44:39.000Z,Some unused,0,High
+Brother Web Connect,Disabled by user,Yes,Delegated,User (1),N/A,,2021-08-11T08:03:39.000Z,Some unused,0,High
+ca-automation-test,Enabled,Yes,Mixed,Admin,N/A,2023-11-07T15:04:06.000Z,2023-11-07T15:02:48.000Z,N/A,0,Medium
+calendly,Enabled,No,Delegated,User (4),N/A,2023-06-14T10:35:13.000Z,2021-03-08T09:25:36.000Z,N/A,0,None
+Calendly,Enabled,Yes,Delegated,User (16),N/A,2023-07-24T07:16:21.000Z,2022-01-16T22:54:19.000Z,In use,0,Medium
+Calendly Integrations,Enabled,Yes,Delegated,User (3),Calendly LLC,,2021-07-04T05:22:22.000Z,Some unused,0,Medium
+CalenGoo,Enabled,Yes,Delegated,User (1),N/A,,2022-11-22T18:18:42.000Z,N/A,0,Medium
+Canon Easy-PhotoPrint Editor,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:12:56.000Z,2023-08-04T11:46:52.000Z,Some unused,0,High
+Canon PRINT Inkjet/SELPHY,Disabled by user,Yes,Delegated,User (2),N/A,,2022-06-30T20:48:37.000Z,Some unused,0,High
+Canva,Disabled by user,Yes,Delegated,User (20),N/A,2023-10-31T14:14:16.000Z,2021-11-02T13:43:43.000Z,Some unused,0,High
+Canva,Disabled by user,Yes,Delegated,User (104),Canva,2023-10-31T14:14:00.000Z,2022-11-15T19:54:46.000Z,Some unused,0,High
+ccClick,Enabled,Yes,Mixed,Admin,N/A,2023-06-26T19:22:40.000Z,2022-05-02T09:58:11.000Z,Some unused,0,High
+CDisplayEx,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:14:41.000Z,2022-07-17T08:28:03.000Z,Some unused,0,High
+Cellcom-AAD,Enabled,Yes,Mixed,Admin,N/A,2023-07-31T12:30:58.000Z,2023-07-31T11:20:45.000Z,N/A,0,Medium
+CellcomSAML,Enabled,Yes,Mixed,Admin,N/A,2023-08-14T11:05:56.000Z,2023-07-30T07:51:53.000Z,N/A,0,Medium
+chafe-owner-amit,Disabled by user,Yes,Application,Admin,N/A,2023-10-31T16:23:03.000Z,2023-08-22T11:39:49.000Z,N/A,0,High
+Chartnado,Disabled by user,Yes,Delegated,User (1),Powder Software Inc.,2023-10-31T14:15:03.000Z,2022-06-13T14:24:01.000Z,Some unused,0,High
+Chat Roulette,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:15:20.000Z,2021-02-01T09:14:52.000Z,Some unused,0,High
+CiraSync Personal Edition,Enabled,No,Delegated,User (1),Cira Apps Limited,,2021-06-29T13:42:33.000Z,N/A,0,None
+Cirruspr-com-AA,Enabled,Yes,Mixed,Admin,N/A,,2023-02-01T14:43:57.000Z,N/A,0,High
+Cisco Webex Meetings Mobile app,Disabled by user,Yes,Delegated,User (5),Cisco,2023-10-31T14:15:42.000Z,2022-02-08T06:07:24.000Z,Some unused,0,High
+Cisco Webex Scheduler,Disabled by user,Yes,Delegated,User (57),Cisco,,2020-03-18T09:21:50.000Z,Some unused,0,High
+click- company Events,Enabled,Yes,Mixed,Admin,N/A,,2021-10-24T12:40:54.000Z,Some unused,0,Medium
+click-employeeTraining,Enabled,Yes,Mixed,Admin,N/A,,2022-12-22T08:02:46.000Z,Some unused,0,Medium
+click-JITSiteAccess-app,Enabled,Yes,Mixed,Admin,N/A,,2022-02-10T12:30:50.000Z,N/A,0,High
+click-requestAteam-app,Enabled,Yes,Delegated,Admin,N/A,,2022-02-07T12:53:38.000Z,N/A,0,Medium
+clickCommunicator-authors,Enabled,Yes,Mixed,Admin,N/A,,2021-10-05T06:33:21.000Z,Some unused,0,High
+ClickIDF - B2CGraphAPI - TST,Enabled,Yes,Mixed,Admin,N/A,,2021-11-24T15:29:03.000Z,N/A,0,High
+ClickIDF - SyncUsers - PROD,Enabled,Yes,Mixed,Admin,N/A,2023-11-26T17:04:03.000Z,2021-09-13T16:29:42.000Z,In use,0,High
+ClickIDF - WIFI- DEV,Enabled,No,Delegated,Admin,N/A,,2020-08-04T11:24:51.000Z,N/A,0,None
+ClickSupportApp,Enabled,Yes,Mixed,Admin,N/A,,2022-04-06T14:43:36.000Z,N/A,0,Medium
+Clio Outlook - EU,Disabled by user,Yes,Delegated,User (1),Themis Solutions Inc.,2023-02-01T14:23:59.000Z,2022-01-19T10:42:17.000Z,Some unused,0,High
+Cloud Sync,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:16:42.000Z,2022-05-11T21:29:46.000Z,Some unused,0,High
+CloudDuplicateFinder,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-31T14:16:59.000Z,2022-06-23T11:52:20.000Z,Some unused,0,High
+CloudFuze,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:17:29.000Z,2022-06-25T15:15:55.000Z,Some unused,0,High
+CloudFuze,Disabled by user,No,Delegated,User (2),N/A,2023-02-01T14:34:25.000Z,2021-02-03T13:20:35.000Z,N/A,0,None
+CloudMounter,Disabled by user,Yes,Delegated,User (4),N/A,2023-10-31T14:04:49.000Z,2019-12-16T01:25:28.000Z,Some unused,0,High
+Cloudockit,Enabled,No,Delegated,User (1),N/A,,2021-06-14T07:58:03.000Z,N/A,0,None
+Cloudockit,Enabled,No,Delegated,User (1),N/A,,2021-06-14T07:57:40.000Z,N/A,0,None
+ContactOut,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-31T14:18:05.000Z,2021-01-08T08:44:44.000Z,Some unused,0,High
+coronai-dev,Enabled,No,Delegated,User (61),N/A,,2020-09-08T12:45:30.000Z,N/A,0,None
+coronai-mabar,Enabled,No,Delegated,User (19),N/A,,2020-09-16T20:53:28.000Z,N/A,0,None
+CoronaIDF/Prod/PowerBI,Enabled,No,Delegated,User (1),N/A,,2020-04-26T11:28:17.000Z,N/A,0,None
+cpr-test,Enabled,No,Delegated,User (1),N/A,,2020-03-19T19:26:36.000Z,N/A,0,None
+Cyber - Automation - prod,Enabled,Yes,Application,Admin,N/A,2023-08-16T07:17:39.000Z,2022-08-10T10:47:58.000Z,N/A,0,Medium
+Cyber-Mador60-Amit-PRD,Enabled,Yes,Mixed,Admin,N/A,2023-11-16T15:23:02.000Z,2022-05-17T12:05:16.000Z,N/A,0,High
+Cyberduck,Disabled by user,Yes,Delegated,User (1),N/A,,2020-07-01T10:46:51.000Z,Some unused,0,High
+Cybertron,Enabled,Yes,Mixed,Admin,N/A,2023-08-07T12:22:08.000Z,2021-08-08T12:14:53.000Z,N/A,0,High
+DaisyDisk,Disabled by user,Yes,Delegated,User (1),Software Ambience Corp.,2023-10-31T14:18:37.000Z,2023-06-21T19:05:56.000Z,In use,0,High
+Deck.Toys,Enabled,No,Delegated,User (3),N/A,,2021-02-11T09:56:56.000Z,N/A,0,None
+demo,Enabled,Yes,Delegated,User (1),N/A,,2021-01-26T09:11:58.000Z,Some unused,0,Medium
+detach-ps-lambda,Disabled by user,Yes,Mixed,Admin,N/A,2023-10-31T16:40:11.000Z,2023-02-22T07:49:30.000Z,N/A,0,High
+devsecops-example,Enabled,Yes,Delegated,User (1),N/A,,2020-12-21T09:07:33.000Z,Some unused,0,Medium
+diagrams.net,Enabled,Yes,Delegated,Admin,N/A,2023-10-31T15:01:03.000Z,2020-03-16T06:50:17.000Z,In use,3.84 MB,High
+Digital/Shikuf/API/Dev,Enabled,No,Delegated,User (1),N/A,,2020-05-21T08:12:44.000Z,N/A,0,None
+Digital/Shikuf/Front/Dev,Enabled,No,Delegated,User (4),N/A,,2020-05-21T08:05:25.000Z,N/A,0,None
+DigitalIDF - API Portal - Prod,Enabled,Yes,Mixed,Admin,N/A,2023-04-02T15:41:59.000Z,2020-02-09T13:12:03.000Z,N/A,0,Medium
+DigitalIDF - Automation - Prod,Enabled,Yes,Application,Admin,N/A,2023-06-25T05:22:16.000Z,2021-07-29T14:24:43.000Z,N/A,0,High
+DigitalIDF - Campus (Moodle) Teams Integration - Prod,Enabled,Yes,Mixed,Admin,N/A,2023-04-02T15:44:06.000Z,2022-02-23T10:00:07.000Z,Some unused,0,High
+DigitalIDF - CoronaIDF - Dev,Enabled,Yes,Mixed,Admin,N/A,2023-04-02T15:48:01.000Z,2020-04-19T14:51:49.000Z,Some unused,0,High
+DigitalIDF - CoronaIDF - Prod,Enabled,Yes,Mixed,Admin,N/A,2023-04-02T15:48:05.000Z,2020-04-19T16:19:54.000Z,Some unused,0,High
+DigitalIDF - CoronaIDF - Test,Enabled,Yes,Mixed,Admin,N/A,2023-04-02T15:48:13.000Z,2020-04-19T09:31:35.000Z,Some unused,0,High
+DigitalIDF - CPRGO - Prod,Enabled,No,Mixed,Admin,N/A,2023-04-02T15:48:33.000Z,2020-04-07T10:28:32.000Z,N/A,0,None
+DigitalIDF - FixIT - Dev,Enabled,Yes,Mixed,Admin,N/A,,2020-07-01T10:29:14.000Z,N/A,0,High
+DigitalIDF - Gitops - Prod,Enabled,Yes,Mixed,Admin,N/A,2023-11-28T10:08:52.000Z,2022-12-04T07:11:40.000Z,N/A,0,Medium
+DigitalIDF - GLZ BO - PROD,Enabled,No,Delegated,Admin,N/A,,2020-12-14T11:22:09.000Z,N/A,0,None
+DigitalIDF - Maarachot BO - PROD,Enabled,No,Delegated,Admin,N/A,2023-04-02T15:58:50.000Z,2021-01-25T18:08:43.000Z,N/A,0,None
+DigitalIDF - Mim - Prod,Enabled,Yes,Mixed,Admin,N/A,2023-05-09T17:58:05.000Z,2021-11-04T09:49:22.000Z,N/A,0,Medium
+DigitalIDF - MyPortal - Integration,Enabled,Yes,Mixed,Admin,N/A,2023-11-10T08:40:00.000Z,2022-07-04T08:56:43.000Z,N/A,0,High
+DigitalIDF - MyPortal - PreProd,Enabled,Yes,Mixed,Admin,N/A,2023-08-10T08:46:27.000Z,2022-07-04T11:28:46.000Z,N/A,0,High
+DigitalIDF - MyPortal - Prod,Enabled,Yes,Mixed,Admin,N/A,2023-11-14T14:22:39.000Z,2020-08-01T18:13:20.000Z,Some unused,0,High
+DigitalIDF - Netbox - Prod,Enabled,No,Delegated,Admin,N/A,2023-11-02T09:47:34.000Z,2022-02-14T13:43:36.000Z,N/A,0,None
+DigitalIDF - NextHR - PreProd,Enabled,Yes,Mixed,Admin,N/A,2023-04-02T16:03:16.000Z,2020-08-18T15:27:39.000Z,N/A,0,High
+DigitalIDF - OTP - Prod,Enabled,Yes,Mixed,Admin,N/A,2023-04-02T16:05:16.000Z,2020-06-09T08:05:59.000Z,In use,0,High
+DigitalIDF - SAPermissions - Dev,Enabled,Yes,Mixed,Admin,N/A,2023-11-06T16:10:26.000Z,2021-11-15T09:31:53.000Z,N/A,0,Medium
+DigitalIDF - Sikur,Enabled,Yes,Mixed,Admin,N/A,2023-09-05T08:41:45.000Z,2022-05-02T08:39:32.000Z,N/A,0,High
+DigitalIDF - Sikur - Dev,Enabled,Yes,Mixed,Admin,N/A,2023-07-06T08:28:29.000Z,2023-07-04T08:49:49.000Z,N/A,0,High
+DigitalIDF - SmartBase - NonProd,Enabled,Yes,Mixed,Admin,N/A,2023-11-02T07:21:05.000Z,2020-01-22T13:53:05.000Z,Some unused,0,Medium
+DigitalIdf - ThreatIntelligence - Prod,Enabled,Yes,Mixed,Admin,N/A,,2021-12-12T08:57:08.000Z,N/A,0,Medium
+DigitalIDF - VMeet - Production,Enabled,Yes,Delegated,User (69),N/A,2023-10-31T12:37:23.000Z,2022-01-24T13:43:31.000Z,Some unused,0,Medium
+Directory Searcher,Enabled,No,Delegated,User (1),N/A,,2019-10-31T08:33:47.000Z,N/A,0,None
+Disk-O:,Disabled by user,Yes,Delegated,User (2),N/A,2023-02-01T14:34:21.000Z,2021-01-26T17:21:47.000Z,Some unused,0,High
+dna,Enabled,Yes,Delegated,User (4),N/A,2023-03-29T07:16:00.000Z,2023-03-29T06:50:25.000Z,Some unused,0,Medium
+DocHub,Disabled by user,Yes,Delegated,User (1),N/A,,2020-07-02T18:21:53.000Z,Some unused,0,High
+DocScan,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:19:29.000Z,2023-03-09T05:22:36.000Z,Some unused,0,High
+Documents,Disabled by user,Yes,Delegated,User (10),N/A,2023-09-04T16:06:54.000Z,2021-04-08T14:06:40.000Z,In use,0,High
+draw.io for Confluence Cloud,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:20:05.000Z,2022-11-14T20:44:22.000Z,Some unused,0,High
+drawio,Enabled,Yes,Delegated,User (5),N/A,,2019-09-13T18:24:02.000Z,Some unused,0,High
+DriveToWeb,Disabled by user,Yes,Delegated,User (1),N/A,2023-02-01T14:25:59.000Z,2022-02-03T01:16:27.000Z,Some unused,0,High
+Dugga Login,Enabled,No,Delegated,User (1),N/A,,2020-06-29T11:34:12.000Z,N/A,0,None
+Dynamics-365,Enabled,No,Delegated,User (1),N/A,,2020-07-23T19:46:21.000Z,N/A,0,None
+EasePDF,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:20:43.000Z,2022-09-19T22:17:58.000Z,Some unused,0,High
+EBSCO Discovery,Disabled by user,Yes,Delegated,User (3),N/A,2023-07-24T16:23:51.000Z,2022-12-17T19:12:09.000Z,Some unused,0,High
+EdisonMail,Disabled by user,Yes,Delegated,User (3),N/A,2023-05-09T11:26:43.000Z,2022-10-05T12:59:46.000Z,Some unused,0,High
+Edmodo,Disabled by user,Yes,Delegated,User (1),N/A,,2021-05-19T09:32:46.000Z,Some unused,0,High
+Email,Enabled,No,Delegated,User (4),N/A,,2020-07-19T23:59:58.000Z,N/A,0,None
+Email,Enabled,No,Delegated,User (22),N/A,,2019-10-27T18:24:50.000Z,N/A,0,None
+EndNote,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:21:44.000Z,2022-04-19T16:13:57.000Z,Some unused,0,High
+Epson iPrint,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:22:18.000Z,2022-09-04T09:49:06.000Z,Some unused,0,High
+eReader Prestigio: Book Reader,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-31T14:22:34.000Z,2022-01-23T06:27:03.000Z,Some unused,0,High
+eSound Music,Disabled by user,Yes,Delegated,User (3),N/A,2023-02-01T14:32:12.000Z,2021-08-23T12:39:07.000Z,Some unused,0,High
+Excel integration with Typeform,Disabled by user,Yes,Delegated,User (3),N/A,2023-10-31T14:03:52.000Z,2021-07-04T08:16:51.000Z,In use,0,High
+Excel Online,Enabled,Yes,Delegated,Admin,N/A,,2020-03-16T09:45:44.000Z,Some unused,0,High
+Exch-REST Powershell Module Registration Full Access,Disabled by user,Yes,Delegated,Admin,N/A,2023-10-31T15:31:52.000Z,2023-03-02T14:41:35.000Z,Some unused,0,High
+ExpanDrive,Disabled by user,Yes,Delegated,User (2),N/A,,2020-06-30T07:30:13.000Z,Some unused,0,High
+ExpanDrive,Disabled by user,Yes,Delegated,User (2),N/A,,2020-04-14T15:29:43.000Z,Some unused,0,High
+ExpanDrive 7,Enabled,No,Delegated,User (1),N/A,,2022-03-13T14:08:57.000Z,N/A,0,None
+FairEmail,Enabled,Yes,Delegated,User (1),N/A,2023-10-26T00:52:54.000Z,2023-10-26T00:52:54.000Z,Some unused,0,High
+FairEmail send,Enabled,Yes,Delegated,User (1),FairCode,2023-10-26T00:54:18.000Z,2023-10-26T00:54:17.000Z,Some unused,0,High
+"Fantastical for Mac, iOS, and iPadOS",Enabled,Yes,Delegated,User (10),Flexibits Inc.,2023-07-20T08:38:23.000Z,2020-09-24T02:40:36.000Z,Some unused,13.58 KB,Medium
+File Picker,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:23:32.000Z,2023-06-08T05:22:29.000Z,Some unused,0,High
+File Picker by RevSpace,Disabled by user,Yes,Delegated,User (1),"TeamzSkill, Inc.",2023-02-17T11:07:17.000Z,2023-02-17T11:07:17.000Z,Some unused,0,High
+Files.com,Disabled by user,Yes,Delegated,User (1),N/A,,2022-06-28T11:28:15.000Z,Some unused,0,High
+finops-automation-api,Disabled by user,Yes,Mixed,Admin,N/A,2023-10-31T16:41:11.000Z,2022-08-18T14:21:37.000Z,Some unused,0,High
+Floaty for Sticky Notes,Disabled by user,Yes,Delegated,User (4),N/A,2023-10-31T14:24:21.000Z,2020-12-30T12:30:54.000Z,Some unused,0,High
+FlowRPCustomConnector,Enabled,No,Delegated,User (1),N/A,,2019-08-04T09:32:12.000Z,N/A,0,None
+FNLuzonDataExport-Dev,Enabled,Yes,Mixed,Admin,N/A,2023-09-12T08:04:35.000Z,2023-09-12T06:55:12.000Z,Some unused,0,Medium
+FNLuzonDataExport-Nir-Dev,Enabled,Yes,Mixed,Admin,N/A,2023-06-25T12:51:55.000Z,2023-04-17T07:07:50.000Z,Some unused,0,Medium
+FortiClient-SPN,Enabled,Yes,Mixed,Admin,N/A,2023-11-29T12:16:05.000Z,2023-11-29T12:11:42.000Z,Some unused,0,High
+Foxit PDF Editor for cloud,Disabled by user,Yes,Delegated,User (1),Foxit Corporation,2023-02-03T13:37:45.000Z,2023-02-03T13:37:45.000Z,Some unused,0,High
+Foxit PDF Reader Mobile,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:24:56.000Z,2020-02-27T02:48:25.000Z,Some unused,0,High
+FoxitPDFOneDrive,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:25:15.000Z,2022-11-05T08:27:43.000Z,Some unused,0,High
+Freda,Disabled by user,Yes,Delegated,User (1),N/A,2023-02-01T14:22:00.000Z,2021-07-06T21:36:59.000Z,Some unused,0,High
+FX File Explorer,Disabled by user,Yes,Delegated,User (3),N/A,2023-10-31T14:25:47.000Z,2020-06-29T10:50:32.000Z,Some unused,0,High
+Gale Prod (galeapps.gale.com),Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:26:07.000Z,2022-10-14T10:55:55.000Z,Some unused,0,High
+Garmin Connect,Enabled,Yes,Delegated,User (67),N/A,2023-10-30T20:51:03.000Z,2020-01-06T21:32:57.000Z,In use,0,Medium
+GCP-sendMail,Enabled,Yes,Mixed,Admin,N/A,2023-07-05T07:57:07.000Z,2023-07-05T07:50:16.000Z,In use,0,High
+Genius Scan,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:26:30.000Z,2022-08-31T18:30:05.000Z,Some unused,0,High
+GitHub Subscription Permission Validation,Enabled,No,Delegated,User (1),GitHub Inc,2023-07-18T08:52:39.000Z,2023-07-18T08:52:39.000Z,N/A,0,None
+GitHub team synchronization,Enabled,Yes,Application,Admin,N/A,,2022-04-05T07:53:58.000Z,N/A,0,Medium
+Glide,Disabled by user,Yes,Delegated,User (5),"Typeguard, Inc.",2023-09-23T18:38:13.000Z,2022-06-17T06:57:52.000Z,In use,0,High
+Gmail,Enabled,Yes,Delegated,User (595),Google LLC,2023-10-26T09:40:52.000Z,2019-10-10T21:34:54.000Z,N/A,0,Medium
+Goodnotes,Disabled by user,Yes,Delegated,User (16),Goodnotes Limited,2023-10-31T14:02:55.000Z,2022-12-09T18:45:59.000Z,Some unused,0,High
+GoodNotes,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-31T14:02:29.000Z,2022-05-10T11:58:29.000Z,In use,0,High
+GoodSync,Disabled by user,Yes,Delegated,User (1),N/A,,2021-11-25T18:49:41.000Z,Some unused,0,High
+Google Takeout,Disabled by user,Yes,Delegated,User (2),N/A,2023-09-11T10:27:31.000Z,2022-08-10T05:22:35.000Z,In use,0,High
+Graph Explorer,Disabled by user,No,Delegated,User (2),N/A,,2020-02-06T11:34:11.000Z,N/A,0,None
+Graph Explorer,Enabled,Yes,Delegated,Admin,Microsoft,2023-11-27T20:23:30.000Z,2021-09-05T12:52:42.000Z,Some unused,1.94 MB,High
+Guest Portal,Disabled by user,Yes,Mixed,Admin,N/A,2023-10-31T16:42:00.000Z,2019-09-30T11:02:35.000Z,N/A,0,High
+haitiapp,Enabled,No,Delegated,User (1),N/A,,2020-03-29T14:16:58.000Z,N/A,0,None
+Haivision SRTHub App,Enabled,No,Delegated,User (1),Haivision Systems Inc,,2020-03-14T17:08:10.000Z,N/A,0,None
+Hatch - Backend Dev,Enabled,No,Application,Admin,N/A,,2021-08-24T12:10:36.000Z,N/A,0,None
+HD_DVR,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-31T14:27:10.000Z,2021-07-26T11:25:43.000Z,Some unused,0,High
+Hiri,Enabled,No,Delegated,User (1),N/A,,2022-06-15T13:57:18.000Z,N/A,0,None
+HubSpot Sales,Enabled,Yes,Delegated,User (1),"Hubspot, Inc.",2023-07-02T13:33:24.000Z,2023-07-02T13:33:23.000Z,Some unused,0,High
+Ideas Portal (PROD),Enabled,No,Delegated,User (1),N/A,,2020-08-11T11:34:50.000Z,N/A,0,None
+idf-aad-app,Enabled,Yes,Application,Admin,N/A,,2022-08-11T06:10:45.000Z,Some unused,0,High
+idf-mia-app,Enabled,Yes,Application,Admin,N/A,,2022-08-18T11:47:48.000Z,Some unused,0,High
+idf-noti-app,Enabled,Yes,Application,Admin,N/A,,2022-08-18T11:47:53.000Z,N/A,0,High
+idfea-aad-app,Enabled,Yes,Application,Admin,N/A,2023-06-13T08:02:00.000Z,2023-06-13T07:58:35.000Z,In use,0,High
+idfea-mia-app,Enabled,Yes,Application,Admin,N/A,2023-08-01T13:13:19.000Z,2023-06-13T08:01:59.000Z,Some unused,0,High
+idfea-noti-app,Enabled,Yes,Application,Admin,N/A,2023-06-13T08:05:29.000Z,2023-06-13T08:05:27.000Z,N/A,0,High
+iFiles File Manager,Disabled by user,Yes,Delegated,User (1),N/A,2023-04-29T12:51:53.000Z,2023-04-29T12:51:52.000Z,Some unused,0,High
+InClowdz,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:28:34.000Z,2022-06-22T15:11:19.000Z,Some unused,0,High
+Index-Bislat-Back,Enabled,Yes,Delegated,User (202),N/A,2023-07-19T11:23:32.000Z,2022-09-05T12:53:52.000Z,Some unused,0,Medium
+Insync,Disabled by user,Yes,Delegated,User (1),N/A,,2021-11-25T17:51:57.000Z,Some unused,0,High
+iOS Accounts,Enabled,No,Delegated,Admin,Apple Inc.,,2019-08-15T17:51:12.000Z,N/A,0,None
+JetSign,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-31T14:29:30.000Z,2023-04-30T06:04:59.000Z,In use,0,High
+Jira Cloud for Excel,Disabled by user,Yes,Delegated,User (2),N/A,,2021-05-19T10:25:29.000Z,Some unused,0,High
+Jotform,Disabled by user,Yes,Delegated,User (1),Jotform Inc.,2023-10-31T14:30:36.000Z,2022-02-19T12:48:26.000Z,Some unused,0,High
+Journal,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:31:18.000Z,2021-02-20T19:57:21.000Z,Some unused,0,High
+KababmAPI,Enabled,Yes,Mixed,Admin,N/A,2023-02-27T10:56:01.000Z,2023-02-14T13:14:45.000Z,N/A,0,Medium
+Kami,Disabled by user,Yes,Delegated,User (2),Kami,,2021-02-20T11:01:21.000Z,Some unused,0,High
+Keepass2Android,Disabled by user,Yes,Delegated,User (4),N/A,2023-07-01T14:52:33.000Z,2021-06-30T12:07:56.000Z,Some unused,0,High
+KeePassium,Disabled by user,Yes,Delegated,User (1),KeePassium Labs,2023-10-31T14:32:14.000Z,2023-07-09T13:28:16.000Z,Some unused,0,High
+Koofr,Disabled by user,Yes,Delegated,User (1),N/A,,2020-06-26T07:31:47.000Z,Some unused,0,High
+Kvaesitso,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:32:56.000Z,2023-04-05T07:30:54.000Z,Some unused,0,High
+Learn on Demand LMS,Enabled,No,Delegated,User (60),N/A,2023-09-20T09:05:43.000Z,2019-11-24T13:36:09.000Z,N/A,0,None
+LG Device,Disabled by user,Yes,Delegated,User (1),N/A,2023-02-01T14:28:08.000Z,2022-05-12T12:17:56.000Z,Some unused,0,High
+LMS365,Enabled,Yes,Mixed,Admin,ELEARNINGFORCE International,,2020-06-30T15:53:47.000Z,N/A,0,Medium
+LMS365 API Client,Enabled,No,Delegated,User (2),ELEARNINGFORCE International,,2020-01-31T19:36:08.000Z,N/A,0,None
+Log in using Office 365,Enabled,No,Delegated,User (7),N/A,2023-07-05T06:28:32.000Z,2020-12-03T07:32:00.000Z,N/A,0,None
+Luzon - CalendarConsumer - DEV,Enabled,Yes,Mixed,Admin,N/A,2023-02-09T08:51:08.000Z,2021-09-01T12:21:29.000Z,Some unused,0,Medium
+Luzon - LuzonEws - PROD,Enabled,Yes,Mixed,Admin,N/A,,2021-01-14T08:04:22.000Z,Some unused,0,Medium
+Luzon - LuzonGraph - DEV,Enabled,Yes,Mixed,Admin,N/A,,2021-02-10T14:14:06.000Z,Some unused,0,Medium
+Luzon - LuzonOnTeams - DEV ,Enabled,Yes,Delegated,Admin,N/A,,2021-09-30T11:07:21.000Z,Some unused,0,Medium
+LuzonB2RProd,Enabled,Yes,Mixed,Admin,N/A,2023-06-27T07:05:19.000Z,2023-06-27T07:02:27.000Z,Some unused,0,Medium
+LuzonConnect,Enabled,Yes,Application,Admin,N/A,,2019-08-25T11:27:55.000Z,Some unused,0,High
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2022-03-01T08:50:45.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2021-10-26T12:22:49.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2022-01-02T13:10:22.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2022-01-17T11:13:03.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2022-03-20T12:05:28.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2022-03-08T09:44:37.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2021-12-28T11:44:12.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2022-01-24T13:36:21.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2021-12-28T12:16:42.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2022-03-07T15:48:10.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2022-05-01T11:51:47.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2022-01-11T18:38:00.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2021-09-13T09:50:51.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2022-01-24T20:40:38.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2021-11-22T13:33:22.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2021-11-22T13:33:50.000Z,Some unused,0,Medium
+LuzonOnTeams,Enabled,Yes,Delegated,Admin,N/A,,2021-12-14T09:12:23.000Z,Some unused,0,Medium
+LuzonOnTeams-local-debug-aad,Enabled,Yes,Delegated,Admin,N/A,,2022-06-28T09:06:45.000Z,Some unused,0,Medium
+M42-test-louvre-wa,Enabled,Yes,Mixed,Admin,N/A,,2022-02-07T11:27:02.000Z,N/A,0,Medium
+Mailbird,Disabled by user,Yes,Delegated,User (1),"Mailbird, Inc.",,2021-02-17T13:43:46.000Z,Some unused,0,High
+MailClark for MS Live,Disabled by user,Yes,Delegated,User (2),N/A,,2021-11-08T13:20:50.000Z,Some unused,0,High
+MailMerge365,Disabled by user,Yes,Delegated,User (1),N/A,,2020-03-22T20:13:52.000Z,Some unused,0,High
+Mailspring,Disabled by user,Yes,Delegated,User (2),N/A,,2022-06-15T10:55:48.000Z,Some unused,0,High
+Make,Disabled by user,Yes,Delegated,User (6),N/A,2023-10-31T14:29:15.000Z,2021-10-28T16:56:50.000Z,Some unused,0,High
+Management Port Alerts,Disabled by user,Yes,Mixed,Admin,N/A,2023-10-31T15:33:25.000Z,2021-10-11T10:41:43.000Z,N/A,0,High
+MCS - AzGovViz - PRD,Enabled,Yes,Mixed,Admin,N/A,2023-01-31T09:34:27.000Z,2023-01-31T09:30:41.000Z,N/A,0,High
+MCS - ClickSyncUser -PRD,Enabled,Yes,Mixed,Admin,N/A,2023-03-14T10:11:38.000Z,2021-09-14T08:58:16.000Z,N/A,0,High
+MCS - Directory Read Only automation,Enabled,Yes,Mixed,Admin,N/A,2023-11-02T10:13:28.000Z,2023-11-01T13:34:46.000Z,N/A,0,High
+MCS - ExtensionsMW/PAW - PRD,Enabled,Yes,Mixed,Admin,N/A,,2022-05-22T14:22:40.000Z,N/A,0,High
+MCS - PowerPlatformOperations - DEV,Enabled,Yes,Mixed,Admin,N/A,,2021-12-27T10:05:04.000Z,N/A,0,High
+MCS - PowerPlatformOperations - PRD,Enabled,Yes,Delegated,Admin,N/A,,2021-12-27T10:08:15.000Z,N/A,0,High
+MCS - SCAzureAD -  PRD,Enabled,Yes,Mixed,Admin,N/A,2023-04-02T13:40:12.000Z,2021-12-22T11:56:33.000Z,N/A,0,High
+MCS - SCAzureRM -  PRD,Enabled,Yes,Mixed,Admin,N/A,,2021-12-22T11:55:31.000Z,N/A,0,Medium
+MCS - SMS for Automations - PRD,Enabled,Yes,Mixed,Admin,N/A,,2021-11-04T11:26:00.000Z,Some unused,0,High
+MCS - Splunk - DEV,Enabled,Yes,Mixed,Admin,N/A,,2022-01-04T14:39:10.000Z,N/A,0,High
+MCS - Splunk - PRD,Enabled,Yes,Mixed,Admin,N/A,,2022-03-28T10:24:28.000Z,N/A,0,High
+MCS - Subscription Creation - PRD,Enabled,Yes,Mixed,Admin,N/A,,2022-01-20T11:25:20.000Z,N/A,0,Medium
+MCS - Terraform dev ,Enabled,Yes,Mixed,Admin,N/A,2023-12-05T10:59:51.000Z,2023-11-28T09:52:58.000Z,N/A,0,Medium
+MCS-Automation-Read,Enabled,Yes,Mixed,Admin,N/A,2023-07-16T08:25:09.000Z,2023-06-15T07:51:11.000Z,Some unused,0,High
+MCS-Automations,Enabled,Yes,Mixed,Admin,N/A,2023-11-18T07:13:21.000Z,2023-05-16T08:44:28.000Z,N/A,0,High
+MCS-finops-automations-PRD,Enabled,Yes,Application,Admin,N/A,,2022-08-30T08:06:52.000Z,N/A,0,Medium
+MCS-Reset-Users,Enabled,Yes,Mixed,Admin,N/A,2023-11-12T09:03:13.000Z,2023-11-12T08:17:50.000Z,N/A,0,Medium
+MCS-stratus-hp-SPN,Enabled,Yes,Mixed,Admin,N/A,2023-06-29T12:57:11.000Z,2023-06-01T08:20:26.000Z,Some unused,0,High
+MCS-strauts-SPN,Enabled,Yes,Mixed,Admin,N/A,2023-11-16T22:22:37.000Z,2023-03-15T07:40:30.000Z,Some unused,0,High
+mefakdim-dummy,Enabled,Yes,Delegated,User (1),N/A,,2020-04-05T10:04:56.000Z,Some unused,0,Medium
+Microfocus PROD,Disabled by user,Yes,Delegated,User (4),N/A,2023-10-31T14:34:45.000Z,2021-03-03T15:17:09.000Z,Some unused,0,High
+Microsoft Assessments,Enabled,Yes,Application,Admin,N/A,2023-06-08T12:13:47.000Z,2023-06-08T12:09:55.000Z,Some unused,0,High
+Microsoft Business Solutions,Enabled,No,Delegated,User (2),N/A,2023-08-24T13:23:55.000Z,2020-08-03T11:15:50.000Z,N/A,0,None
+Microsoft events,Enabled,No,Delegated,User (26),N/A,2023-04-20T16:19:17.000Z,2020-02-05T11:37:33.000Z,N/A,0,None
+Microsoft Flow Launch Panel,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:35:12.000Z,2021-01-17T09:56:37.000Z,Some unused,0,High
+Microsoft Graph Command Line Tools,Enabled,Yes,Delegated,Admin,N/A,2023-07-23T19:55:52.000Z,2021-02-07T13:37:21.000Z,Some unused,0,High
+Microsoft Intune PowerShell,Disabled by user,Yes,Delegated,User (1),N/A,2023-01-26T13:00:40.000Z,2022-01-05T10:19:27.000Z,N/A,0,High
+Microsoft Photos,Disabled by user,Yes,Delegated,User (13),N/A,,2020-03-04T18:08:30.000Z,Some unused,0,High
+Microsoft Pin Reset Client Production,Enabled,No,Delegated,Admin,N/A,,2022-01-05T12:31:42.000Z,N/A,0,None
+Microsoft Pin Reset Service Production,Enabled,No,Delegated,Admin,N/A,,2022-01-05T12:30:28.000Z,N/A,0,None
+MobileScanner,Disabled by user,Yes,Delegated,User (2),N/A,2023-06-20T09:16:40.000Z,2022-04-24T09:41:55.000Z,Some unused,0,High
+Monday OneDrive,Disabled by user,Yes,Delegated,User (2),N/A,,2021-05-22T16:09:01.000Z,Some unused,0,High
+monday.com,Disabled by user,Yes,Delegated,User (5),N/A,2023-10-31T14:36:41.000Z,2021-02-20T16:54:02.000Z,Some unused,0,High
+Moodle-mofet,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:37:09.000Z,2022-11-08T18:08:32.000Z,Some unused,0,High
+Motion,Disabled by user,Yes,Delegated,User (2),"Nexusbird, Inc",2023-10-31T14:37:26.000Z,2021-10-16T10:14:15.000Z,Some unused,0,High
+Mover OneDrive Single User,Disabled by user,No,Delegated,User (3),N/A,2023-02-01T14:30:11.000Z,2020-09-09T19:34:17.000Z,N/A,0,None
+mscareers,Disabled by user,Yes,Delegated,User (7),N/A,2023-10-31T14:37:46.000Z,2021-06-07T07:53:42.000Z,Some unused,0,High
+MSFT Power Platform,Disabled by user,Yes,Delegated,User (3),N/A,2023-10-31T14:43:35.000Z,2019-06-19T07:09:59.000Z,Some unused,0,High
+MultCloudV2,Disabled by user,Yes,Delegated,User (2),N/A,2023-02-01T14:28:08.000Z,2020-09-09T19:16:40.000Z,Some unused,0,High
+MW-Form,Enabled,Yes,Mixed,Admin,N/A,2023-10-04T13:12:15.000Z,2023-03-21T13:55:49.000Z,N/A,0,High
+My Study Life,Enabled,No,Delegated,User (3),N/A,,2021-06-07T08:29:15.000Z,N/A,0,None
+My-Automations_SyncUsers,Enabled,No,Application,Admin,N/A,,2022-03-21T12:53:22.000Z,N/A,0,None
+MyFiles,Enabled,Yes,Delegated,Admin,N/A,2023-10-31T15:24:32.000Z,2020-03-08T12:08:56.000Z,In use,89.33 MB,High
+myTask2DoAD,Enabled,No,Delegated,User (2),N/A,,2020-03-17T12:09:45.000Z,N/A,0,None
+NA4,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-31T14:38:17.000Z,2023-04-22T17:01:09.000Z,Some unused,0,High
+NAPS2,Disabled by user,Yes,Delegated,User (1),N/A,,2021-01-19T17:54:30.000Z,Some unused,0,High
+NEO LMS SSO,Enabled,No,Delegated,User (1),N/A,2023-07-06T10:08:15.000Z,2023-07-06T10:08:15.000Z,N/A,0,None
+NewAccountAutomation,Enabled,Yes,Mixed,Admin,N/A,2023-06-27T14:50:26.000Z,2022-08-24T07:46:55.000Z,N/A,0,High
+Nine for Office 365,Enabled,No,Delegated,User (3),N/A,,2020-03-16T19:14:04.000Z,N/A,0,None
+Noam-test-app,Enabled,Yes,Mixed,Admin,N/A,2023-03-23T09:45:20.000Z,2023-03-23T09:43:39.000Z,N/A,0,Medium
+Notability,Disabled by user,Yes,Delegated,User (141),N/A,2023-10-27T15:02:52.000Z,2020-09-12T19:02:37.000Z,In use,0,High
+ocidf,Disabled by user,Yes,Mixed,Admin,N/A,2023-10-31T16:47:25.000Z,2020-03-17T14:47:56.000Z,N/A,0,High
+ocp-admin,Enabled,No,Application,Admin,N/A,,2022-05-24T13:29:52.000Z,N/A,0,None
+ocp-coron.idf.cts,Enabled,No,Application,Admin,N/A,,2020-03-16T12:55:32.000Z,N/A,0,None
+ocp-prin.idf.cts,Enabled,No,Application,Admin,N/A,,2020-03-22T10:46:55.000Z,N/A,0,None
+ocp4-prod,Disabled by user,Yes,Application,Admin,N/A,2023-10-31T16:48:37.000Z,2020-03-15T15:05:21.000Z,N/A,0,High
+ocp43-Playground,Enabled,No,Application,Admin,N/A,,2020-03-23T08:24:43.000Z,N/A,0,None
+ocp43-preprod,Enabled,No,Application,Admin,N/A,,2020-03-17T09:29:31.000Z,N/A,0,None
+Office 365 Mover,Disabled by user,Yes,Delegated,User (3),N/A,2023-02-01T14:30:08.000Z,2020-04-20T10:55:04.000Z,Some unused,0,High
+officeatwork Template Chooser,Disabled by user,Yes,Delegated,User (2),officeatwork,2023-08-04T04:40:10.000Z,2023-06-06T22:20:26.000Z,In use,0,High
+Oggy2021,Enabled,Yes,Delegated,User (7),N/A,,2021-04-27T09:38:30.000Z,Some unused,0,Medium
+OnCommand Cloud Manager Wizard,Enabled,No,Delegated,User (3),N/A,,2020-04-22T07:55:33.000Z,N/A,0,None
+One Calendar,Enabled,Yes,Delegated,User (11),Code Spark,2023-09-16T14:08:56.000Z,2022-03-09T03:16:45.000Z,Some unused,0,Medium
+OneCalendar,Enabled,Yes,Delegated,User (10),N/A,,2019-07-25T17:06:02.000Z,Some unused,0,Medium
+OneDrive,Disabled by user,Yes,Delegated,User (4),N/A,2023-10-23T14:42:48.533Z,2021-07-14T19:35:25.000Z,Some unused,0,High
+OneDrive Addon for Kodi,Disabled by user,Yes,Delegated,User (1),N/A,,2020-11-23T22:39:14.000Z,Some unused,0,High
+OneDrive Client for Linux,Disabled by user,Yes,Delegated,User (1),N/A,,2020-12-28T11:32:40.000Z,Some unused,0,High
+OneDrive for Slack,Disabled by user,Yes,Delegated,User (1),N/A,2023-03-13T11:55:55.000Z,2023-03-13T11:55:55.000Z,Some unused,0,High
+OneDrive for Slack,Disabled by user,Yes,Delegated,User (2),"Slack, Inc",2023-10-31T14:41:02.000Z,2023-03-13T09:15:25.000Z,Some unused,0,High
+OneDrive Free Client,Disabled by user,Yes,Delegated,User (1),N/A,,2021-02-15T22:52:55.000Z,Some unused,0,High
+OneDrive-MoodleShenkar,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-31T14:41:44.000Z,2022-01-10T19:05:25.000Z,Some unused,0,High
+OneSync,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-31T14:42:02.000Z,2021-09-21T19:01:49.000Z,Some unused,0,High
+openforce-service-principal,Enabled,Yes,Application,Admin,N/A,,2021-05-27T11:33:23.000Z,N/A,0,High
+openidtest1,Enabled,No,Delegated,User (2),N/A,,2021-01-26T09:46:34.000Z,N/A,0,None
+Opensense for Office365,Enabled,No,Delegated,User (1),N/A,2023-06-14T08:39:09.000Z,2023-06-14T08:39:09.000Z,N/A,0,None
+openshift-public-sp,Enabled,No,Delegated,Admin,N/A,,2020-09-30T09:38:46.000Z,N/A,0,None
+openshift-sp,Enabled,No,Application,Admin,N/A,,2019-11-24T11:41:45.000Z,N/A,0,None
+Packer for Azure,Enabled,No,Delegated,User (1),N/A,,2020-06-11T19:50:16.000Z,N/A,0,None
+PAW CSM PowerShell Tool,Enabled,Yes,Delegated,Admin,N/A,,2022-01-05T12:52:31.000Z,N/A,0,High
+PDF Expert,Disabled by user,Yes,Delegated,User (27),N/A,2023-10-31T14:01:20.000Z,2020-02-27T02:36:00.000Z,In use,0,High
+PDF Expert,Disabled by user,Yes,Delegated,User (1),N/A,,2020-01-18T16:06:15.000Z,Some unused,0,High
+PDFSimpli,Disabled by user,Yes,Delegated,User (3),N/A,2023-10-31T14:42:41.000Z,2020-11-13T23:19:46.000Z,Some unused,0,High
+Photopea,Disabled by user,Yes,Delegated,User (4),N/A,2023-10-07T21:51:11.000Z,2023-03-21T20:14:37.000Z,In use,0,High
+PnP Management Shell,Disabled by user,Yes,Delegated,Admin,N/A,2023-10-31T14:05:14.000Z,2022-02-01T14:19:35.000Z,Some unused,0,High
+Portal Aladdin - DEV,Enabled,Yes,Mixed,Admin,N/A,2023-09-10T11:00:54.000Z,2022-10-02T11:05:16.000Z,N/A,0,Medium
+Portal Aladdin - PRD,Enabled,Yes,Mixed,Admin,N/A,2023-08-07T08:52:30.000Z,2022-04-06T08:21:15.000Z,N/A,0,High
+Power BI Community,Enabled,No,Delegated,User (10),N/A,,2020-04-24T10:26:44.000Z,N/A,0,None
+Power BI Tiles,Enabled,No,Delegated,User (3),DEVSCOPE,,2020-12-09T11:57:47.000Z,N/A,0,None
+PowerApps and Flow - Azure AD,Enabled,Yes,Delegated,Admin,N/A,,2019-08-11T14:14:04.000Z,N/A,0,High
+Powerlink Crm,Disabled by user,Yes,Delegated,User (3),N/A,2023-10-31T14:43:56.000Z,2020-06-10T08:32:04.000Z,Some unused,0,High
+Priority Matrix Government,Disabled by user,Yes,Delegated,User (1),Appfluence Inc,2023-10-31T14:44:20.000Z,2022-08-26T08:21:46.000Z,Some unused,0,High
+Priority Matrix HIPAA,Disabled by user,Yes,Delegated,User (1),Appfluence Inc,2023-10-31T14:44:37.000Z,2022-07-11T08:47:00.000Z,Some unused,0,High
+Priority SMTP,Disabled by user,Yes,Delegated,User (1),Priority Software LTD.,2023-10-31T14:50:34.000Z,2022-12-15T09:57:20.000Z,Some unused,0,High
+Project Gutenberg,Disabled by user,Yes,Delegated,User (3),N/A,2023-10-31T14:51:04.000Z,2022-02-24T14:08:39.000Z,Some unused,0,High
+Rave Web App,Enabled,No,Delegated,User (2),N/A,,2021-11-29T23:13:58.000Z,N/A,0,None
+Raven Software Prod,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:51:30.000Z,2022-02-02T21:57:22.000Z,Some unused,0,High
+rclone,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-23T16:12:07.000Z,2022-10-03T03:06:57.000Z,Some unused,0,High
+readandsignprod,Enabled,No,Delegated,User (7),N/A,,2020-04-07T15:42:26.000Z,N/A,0,None
+Red Hat SSO,Enabled,No,Delegated,User (4),N/A,,2020-10-06T21:01:19.000Z,N/A,0,None
+Requestateamapp,Enabled,Yes,Mixed,Admin,N/A,,2022-02-01T14:21:03.000Z,N/A,0,High
+Rocketbook,Disabled by user,Yes,Delegated,User (16),N/A,2023-07-09T06:45:12.000Z,2020-05-19T07:34:27.000Z,Some unused,0,High
+RoeeProject-app,Enabled,Yes,Delegated,Admin,N/A,2023-01-25T09:19:15.000Z,2023-01-13T13:29:44.000Z,N/A,0,Medium
+ROMA,Enabled,No,Delegated,User (1),N/A,2023-03-13T15:29:01.000Z,2023-03-13T15:29:01.000Z,N/A,0,None
+russmax7aad,Enabled,No,Delegated,User (2),N/A,,2021-01-13T11:16:50.000Z,N/A,0,None
+SafeInCloud,Disabled by user,Yes,Delegated,User (2),Andrey Shcherbakov,2023-10-31T14:52:32.000Z,2021-05-22T21:44:02.000Z,Some unused,0,High
+Salesforce,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-31T14:52:50.000Z,2022-07-25T04:59:41.000Z,Some unused,0,High
+Samsung Email,Disabled by user,Yes,Delegated,User (65),N/A,2023-10-31T14:53:34.000Z,2020-11-06T10:08:29.000Z,Some unused,0,High
+Samsung Notes,Disabled by user,Yes,Delegated,User (1010),Samsung Electronics,2023-10-31T14:53:54.000Z,2020-11-16T06:46:34.000Z,Some unused,0,High
+SAP Cloud Appliance Library,Enabled,No,Delegated,User (1),N/A,,2020-04-27T12:26:13.000Z,N/A,0,None
+SDF,Disabled by user,Yes,Delegated,User (1),N/A,,2020-07-29T08:24:11.000Z,Some unused,0,High
+Sejda PDF,Disabled by user,Yes,Delegated,User (3),N/A,2023-10-31T14:54:38.000Z,2021-05-16T10:49:31.000Z,Some unused,0,High
+service-catalog-automation_CQzgg1l90Za4AUhb8r3qB82LIJbJHsyzN8i+PgTl5yc=,Enabled,Yes,Application,Admin,N/A,,2022-01-23T13:30:42.000Z,N/A,0,High
+ServiceDesk Plus (Cloud),Disabled by user,Yes,Delegated,User (1),Zoho Corporation Private Ltd,,2021-04-18T14:40:06.000Z,Some unused,0,High
+ServiceInHand,Enabled,Yes,Mixed,Admin,N/A,2023-10-17T15:48:23.000Z,2023-07-18T13:46:40.000Z,N/A,0,High
+ServiceNowApp,Disabled by user,Yes,Delegated,User (28),N/A,2023-10-31T14:55:17.000Z,2020-04-20T15:47:16.000Z,Some unused,0,High
+shachaf-openid-app,Enabled,Yes,Delegated,User (1),N/A,,2019-12-18T21:03:56.000Z,Some unused,0,Medium
+ShareGate migration tool,Disabled by user,Yes,Delegated,User (1),Groupe GSoft,2023-10-31T14:55:37.000Z,2021-12-08T07:18:38.000Z,Some unused,0,High
+SharePlus,Enabled,No,Delegated,User (1),N/A,,2022-07-04T14:34:55.000Z,N/A,0,None
+SharePoint Online Client Extensibility Web Application Principal,Enabled,Yes,Delegated,Admin,N/A,,2020-04-08T12:42:28.000Z,Some unused,0,High
+SharePointPnP.ProvisioningApp.Site,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:55:57.000Z,2022-02-23T20:56:23.000Z,Some unused,0,High
+Sheetgo,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:56:16.000Z,2022-06-07T20:27:03.000Z,Some unused,0,High
+shon-create-users,Enabled,Yes,Mixed,Admin,N/A,2023-10-19T10:00:33.000Z,2023-10-19T09:06:19.000Z,N/A,0,High
+Smartbase by Digital - Dev/Test (Auth Code Flow),Enabled,Yes,Delegated,Admin,N/A,,2020-12-02T10:06:20.000Z,Some unused,0,Medium
+SMS Backup and Restore,Disabled by user,Yes,Delegated,User (7),N/A,2023-07-16T14:11:28.000Z,2021-03-04T12:50:43.000Z,Some unused,0,High
+Snyk Azure Marketplace Listing,Enabled,No,Delegated,User (3),N/A,,2020-03-15T14:12:43.000Z,N/A,0,None
+Splunk Enterprise and Splunk Cloud,Enabled,No,Application,Admin,N/A,,2021-07-13T10:57:11.000Z,N/A,0,None
+Storyboard That,Enabled,No,Delegated,User (4),N/A,2023-06-10T18:03:32.000Z,2020-04-28T13:52:13.000Z,N/A,0,None
+Strongbox,Disabled by user,Yes,Delegated,User (1),PHOEBE CODE LIMITED,2023-10-31T14:56:58.000Z,2023-05-14T09:51:30.000Z,Some unused,0,High
+Superhuman (Desktop),Enabled,Yes,Delegated,User (1),"Superhuman Labs, Inc.",2023-10-19T08:55:40.000Z,2023-10-19T08:55:40.000Z,Some unused,3.06 MB,High
+Superhuman (Phone),Disabled by user,Yes,Delegated,User (1),"Superhuman Labs, Inc.",2023-10-31T14:57:24.000Z,2022-08-05T16:24:45.000Z,Some unused,0,High
+Supernote Email,Disabled by user,Yes,Delegated,User (1),"Ratta Smart Technology Co.,Ltd.",2023-10-31T14:57:41.000Z,2023-01-16T12:26:14.000Z,Some unused,0,High
+SyncGene,Disabled by user,Yes,Delegated,User (5),N/A,2023-04-26T20:36:07.000Z,2021-05-18T06:54:23.000Z,Some unused,0,High
+TA/UTAX Mobile Print,Disabled by user,Yes,Delegated,User (1),N/A,2023-09-03T15:30:25.000Z,2023-09-03T15:30:25.000Z,Some unused,0,High
+Takeaway Prod,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T14:58:33.000Z,2021-12-16T12:52:38.000Z,Some unused,0,High
+Tasks in a Box,Disabled by user,Yes,Delegated,User (8),N/A,,2020-04-25T20:05:10.000Z,Some unused,0,High
+Tasks in a Box Mobile App,Enabled,No,Delegated,User (1),N/A,,2020-04-25T20:41:01.000Z,N/A,0,None
+Teacher Dashboard 365,Disabled by user,Yes,Delegated,User (9),N/A,2023-10-31T14:59:08.000Z,2020-03-07T08:06:20.000Z,Some unused,0,High
+Team Forms,Enabled,Yes,Delegated,User (33),VP LABS PTY LTD,2023-06-20T12:19:00.000Z,2022-12-19T09:33:55.000Z,Some unused,0,High
+test-deploy-node-app,Enabled,No,Delegated,User (1),N/A,,2020-08-11T07:37:31.000Z,N/A,0,None
+Thinglink,Disabled by user,Yes,Delegated,User (6),ThingLink,2023-01-15T15:40:38.000Z,2020-05-08T20:51:38.000Z,Some unused,0,High
+Thunderbird,Disabled by user,Yes,Delegated,User (5),N/A,2023-02-05T21:24:23.000Z,2020-12-20T08:11:03.000Z,Some unused,0,High
+Thunderbird,Disabled by user,Yes,Delegated,User (5),Mozilla Thunderbird,2023-10-31T14:59:56.000Z,2023-02-27T06:44:00.000Z,Some unused,0,High
+TimeClock 365,Enabled,No,Delegated,User (38),N/A,2023-09-06T08:54:29.000Z,2021-01-01T07:48:29.000Z,N/A,0,None
+tomshift,Enabled,No,Application,Admin,N/A,,2020-06-17T07:57:11.000Z,N/A,0,None
+Trello,Disabled by user,Yes,Delegated,User (6),N/A,2023-10-31T15:00:36.000Z,2021-09-13T09:13:56.000Z,Some unused,0,High
+Trello OneDrive Power-up,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-31T15:01:03.000Z,2023-07-10T06:41:58.000Z,In use,0,High
+TruNoteViewer,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T15:01:20.000Z,2023-09-25T09:31:26.000Z,Some unused,0,High
+TURKIZ-SEA-BSMCH-HERZL,Enabled,Yes,Delegated,User (1),N/A,2023-06-20T14:45:17.000Z,2023-06-20T08:58:14.000Z,Some unused,0,High
+TURKIZ-SEA-BSMCH-MANTLE,Enabled,Yes,Delegated,User (2),N/A,2023-06-12T06:35:18.000Z,2023-03-26T14:36:50.000Z,Some unused,0,High
+Turkiz-Starfish-Click-Mamram-PRD-001-eu-prd-ocr-sp,Enabled,Yes,Mixed,Admin,N/A,2023-11-23T09:40:53.000Z,2023-08-21T09:12:11.000Z,Some unused,377.48 GB,High
+Turkiz-Starfish-ClickMamram-PRD-004-luzon-pt,Enabled,Yes,Mixed,Admin,N/A,2023-08-13T08:44:01.000Z,2023-08-13T08:36:25.000Z,N/A,0,Medium
+Twobird,Disabled by user,Yes,Delegated,User (1),"Ginger Labs, Inc.",2023-10-31T15:02:56.000Z,2022-09-28T21:23:58.000Z,Some unused,0,High
+TypeApp,Enabled,No,Delegated,User (1),N/A,,2020-04-12T15:28:34.000Z,N/A,0,None
+Unito for Excel,Disabled by user,Yes,Delegated,User (1),Unito Inc,2023-10-31T15:03:35.000Z,2023-07-27T16:38:04.000Z,Some unused,0,High
+VaultMe,Disabled by user,Yes,Delegated,User (1),"Unbounded Cloud LLC (dba VaultMe, VaultMe.com)",2023-10-31T15:03:57.000Z,2022-10-25T07:13:26.000Z,Some unused,0,High
+Virto Apps,Disabled by user,Yes,Delegated,User (5),Virto solutions,2023-09-09T18:28:47.000Z,2022-09-05T15:57:59.000Z,Some unused,0,High
+virtru-production-multi-tenant,Enabled,No,Delegated,User (2),N/A,2023-05-27T17:35:25.000Z,2022-07-27T19:05:37.000Z,N/A,0,None
+vKiosk - PhotoChoose,Enabled,Yes,Delegated,User (71),N/A,2023-10-24T11:23:21.000Z,2021-12-31T08:08:43.000Z,Some unused,0,Medium
+VMware Boxer,Disabled by user,Yes,Delegated,User (2),"Vmware, Inc.",2023-10-31T15:10:23.000Z,2022-04-02T16:44:57.000Z,Some unused,0,Medium
+Voice Recorder,Disabled by user,Yes,Delegated,User (1),N/A,2023-02-01T14:21:59.000Z,2021-12-03T03:57:02.000Z,Some unused,0,High
+VPN Server,Enabled,No,Application,Admin,N/A,,2019-09-10T08:01:11.000Z,N/A,0,None
+Windows Configuration Designer (WCD),Enabled,No,Delegated,User (2),N/A,,2021-07-26T09:23:17.000Z,N/A,0,None
+Windows Virtual Desktop,Enabled,Yes,Mixed,Admin,N/A,2023-05-29T11:22:58.000Z,2020-05-31T20:02:54.000Z,N/A,0,Medium
+Windows Virtual Desktop Client,Enabled,No,Delegated,Admin,N/A,2023-09-11T13:45:39.000Z,2020-05-31T20:03:25.000Z,N/A,0,None
+windowsazure.uservoice.com,Enabled,No,Delegated,User (5),N/A,,2020-09-21T12:16:37.000Z,N/A,0,None
+wiz-c148523c-05f9-4dd5-8438-34fcd76c7052,Enabled,Yes,Application,Admin,N/A,,2023-10-23T12:22:53.000Z,N/A,0,High
+Wondershare Filmora,Disabled by user,Yes,Delegated,User (1),Wondershare Global Limited,2023-10-31T15:05:34.000Z,2022-11-08T08:37:23.000Z,Some unused,0,High
+WPS Office,Disabled by user,Yes,Delegated,User (1),N/A,2023-10-31T15:06:11.000Z,2022-10-21T11:51:29.000Z,Some unused,0,High
+Wrike,Enabled,No,Delegated,User (2),N/A,2023-07-17T00:33:05.000Z,2021-09-05T11:00:57.000Z,N/A,0,None
+Yahoo Exchange Sync,Enabled,Yes,Delegated,User (1),N/A,2023-08-07T16:12:12.000Z,2023-08-07T16:12:12.000Z,N/A,0,Medium
+yatama-UserAutomationAccount_dJ+eQBjCnvoYkdfjWaC3wl+12FuvnH+tRTE7lkBALrM=,Enabled,No,Delegated,Admin,N/A,,2020-11-16T14:01:48.000Z,N/A,0,None
+Yealink - Skype for Business Certified Phone,Enabled,No,Delegated,User (1),N/A,,2022-05-10T09:37:23.000Z,N/A,0,None
+Zamzam,Enabled,No,Mixed,Admin,N/A,,2020-05-26T18:02:52.000Z,N/A,0,None
+Zamzam-dev,Enabled,No,Delegated,User (1),N/A,,2020-05-26T19:09:29.000Z,N/A,0,None
+Zapier,Enabled,Yes,Delegated,User (11),N/A,2023-09-18T18:01:50.000Z,2020-12-16T14:15:27.000Z,Some unused,0,High
+Zapier Excel,Disabled by user,Yes,Delegated,User (7),N/A,2023-03-07T06:38:04.000Z,2021-01-28T11:23:11.000Z,Some unused,0,High
+Zapier Outlook,Disabled by user,Yes,Delegated,User (8),N/A,2023-10-31T15:07:03.000Z,2020-07-06T20:13:55.000Z,Some unused,0,High
+Zip RAR File Extractor,Disabled by user,Yes,Delegated,User (4),N/A,2023-06-03T15:51:09.000Z,2022-04-23T19:41:55.000Z,Some unused,0,High
+Zoho CRM,Disabled by user,Yes,Delegated,User (1),Zoho Corporation Private Ltd,2023-06-13T09:07:30.000Z,2023-06-13T09:07:30.000Z,Some unused,0,High
+Zoho Desk,Disabled by user,Yes,Delegated,User (1),Zoho Corporation Private Ltd,2023-10-31T15:07:59.000Z,2022-03-27T11:47:50.000Z,Some unused,0,High
+Zoho Projects,Disabled by user,Yes,Delegated,User (2),Zoho Corporation Private Ltd,,2022-08-24T19:57:06.000Z,Some unused,0,High
+Zoho Writer,Disabled by user,Yes,Delegated,User (1),Zoho Corporation Private Ltd,2023-10-31T15:08:26.000Z,2022-11-24T13:45:38.000Z,Some unused,0,High
+Zoom,Enabled,Yes,Delegated,User (108),"Zoom Video Communications, Inc.",2023-10-30T11:29:53.000Z,2020-03-25T07:51:12.000Z,In use,0,Medium
+Zoom for Sharepoint,Disabled by user,Yes,Delegated,User (17),N/A,2023-10-24T08:21:40.000Z,2020-12-22T12:58:30.000Z,Some unused,0,High
+Zoom OneDrive,Disabled by user,Yes,Delegated,User (47),N/A,2023-09-04T10:38:35.000Z,2020-05-27T18:16:30.000Z,In use,0,High
+Zoom Video Communications,Disabled by user,Yes,Delegated,User (2),N/A,2023-10-31T15:09:07.000Z,2020-03-22T08:43:44.000Z,Some unused,0,High
