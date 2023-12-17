@@ -1,0 +1,66 @@
+Active - Documented (table):
+1. Suspicious inbox forwarding
+2. Ransomware activity
+3. Suspicious inbox manipulation rule
+4. Activity performed by terminated user
+5. Cloud Discovery anomaly detection
+6. Multiple delete VM activities
+7. Unusual impersonated activity (by user)
+8. Unusual administrative activity (by user)
+9. Unusual file deletion activity (by user)
+10. Data exfiltration to an app that is not sanctioned
+11. Suspicious email deletion activity (by user)
+12. Unusual file share activity (by user)
+13. Anomalous behavior in discovered users
+
+Active - Documented (page):
+1. Logon from a risky IP address
+2. Malware detection
+
+Active - Not Documented:
+1. AbroadLoginApproval user- anomaly activity *Disabled*
+2. Activities from Gaza ISPs exclude failed log on *Table* -Send Email-
+3. Activity from suspicious IP addresses *Table*
+4. Activity from anonymous IP addresses *Table*
+5. Suspicious change of CloudTrail logging service *table* -Send Email-
+6. Anomalous behavior of discovered IP addresses
+7. Suspicious file access activity (by user) *Table* 
+8. Suspicious creation activity for cloud region *Table* -Send Email-
+9. CA22-APPS: Block Palestinian Authority -Connect to policy on Report-Only-
+10. Activities from satellite ISPs exclude failed log on 
+11. Activities from Israel & Palestine ISPs exclude failed log on
+12. Activities from Israel with suspicios IP exclude failed log
+13. Unusual ISP for an OAuth App (there is investigation reports)
+
+Excluded - Not Documented:
+1. Malicious OAuth app consent
+2. TEST - Potential ransomware activity
+3. Multiple storage deletion activities
+4. Unusual addition of credentials to an OAuth app
+5. Nesher - כלל העברה
+6. Nesher - Anoumalous behavior in users and IP address
+7. Externally shared files
+8. Multiple VM creation activities
+9. Suspicious Power BI report sharing
+10. Misleading OAuth app name
+11. Misleading publisher name for an OAuth app
+12. Unusual file download (by user)
+13. Multiple Power BI report sharing activities
+14. Suspicious OAuth app file download activities
+15. Nesher - Mass Download by single user (exceptions)
+16. Activities from suspicious user agents
+17. TEST - Mass deletion (Teams)
+18. Stale externally shared files
+19. File shared with personal email addresses
+
+Excluded - Documented (page):
+1. Multiple failed login attempts
+
+jump - Not in policies:
+1. Activity from a Tor IP address
+2. Activity from a password-spray associated IP address
+3. Activity from an anonymous proxy
+4. Mass delete
+5. Mass download
+6. Preview: Possible multistage attack activities detected by Fusion
+7. System alert: Policy configuration error

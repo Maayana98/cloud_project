@@ -1,0 +1,53 @@
+Suspicious inbox forwarding - Active - Documented (table)
+Ransomware activity - Active - Documented (table)
+Suspicious inbox manipulation rule - Active - Documented (table)
+Activity performed by terminated user - Active - Documented (table)
+
+* Malicious OAuth app consent - Excluded - Not Documented
+
+Logon from a risky IP address - Active - Documented (page)
+AbroadLoginApproval user- anomaly activity - Active - Not Documented
+* TEST - Potential ransomware activity - Excluded - Not Documented
+Activities from Gaza ISPs exclude failed log on - Active - Not Documented
+Cloud Discovery anomaly detection - Active - Documented (table)
+Malware detection - Active - Documented (page)
+Multiple delete VM activities - Active - Documented (table)
+Unusual impersonated activity (by user) - Active - Documented (table)
+Activity from suspicious IP addresses - Active - Not Documented
+* Multiple storage deletion activities - Excluded - Not Documented
+Unusual administrative activity (by user) - Active - Documented (table)
+Unusual file deletion activity (by user) - Active - Documented (table)
+Data exfiltration to an app that is not sanctioned - Active - Documented (table)
+Activity from anonymous IP addresses - Active - Not Documented
+Suspicious email deletion activity (by user) - Active - Documented (table)
+Unusual file share activity (by user) - Active - Documented (table)
+Suspicious change of CloudTrail logging service - Active - Not Documented
+* Unusual addition of credentials to an OAuth app - Excluded - Not Documented
+Anomalous behavior of discovered IP addresses - Active - Not Documented
+Anomalous behavior in discovered users - Active - Documented (table)
+Suspicious file access activity (by user) - Active - Not Documented
+* Nesher - כלל העברה - Excluded - Not Documented
+* Nesher - Anoumalous behavior in users and IP address - Excluded - Not Documented
+Suspicious creation activity for cloud region - Active - Not Documented
+* Externally shared files - Excluded - Not Documented
+CA22-APPS: Block Palestinian Authority - Active - Not Documented
+Activities from satellite ISPs exclude failed log on - Active - Not Documented
+Activities from Israel & Palestine ISPs exclude failed log on - Active - Not Documented
+Activities from Israel with suspicios IP exclude failed log - Active - Not Documented
+* Multiple VM creation activities - Excluded - Not Documented
+* Suspicious Power BI report sharing - Excluded - Not Documented
+
+* Misleading OAuth app name - Excluded - Not Documented
+
+* Misleading publisher name for an OAuth app - Excluded - Not Documented
+
+# Multiple failed login attempts - Excluded - Documented (page)
+* Unusual file download (by user) - Excluded - Not Documented
+* Multiple Power BI report sharing activities - Excluded - Not Documented
+* Suspicious OAuth app file download activities - Excluded - Not Documented
+Unusual ISP for an OAuth App - Active - Not Documented (there is investigation reports)
+* Nesher - Mass Download by single user (exceptions) - Excluded - Not Documented
+* Activities from suspicious user agents - Excluded - Not Documented
+* TEST - Mass deletion (Teams) - Excluded - Not Documented
+* Stale externally shared files - Excluded - Not Documented
+* File shared with personal email addresses - Excluded - Not Documented
